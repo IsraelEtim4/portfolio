@@ -124,7 +124,7 @@
 }
 
 @media screen and (max-width: 768px) {
-  . services {
+  .services {
     padding: 5rem 0;
   }
   .services_wrapper {
