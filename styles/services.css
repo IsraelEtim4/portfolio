@@ -125,6 +125,8 @@
 
 @media screen and (max-width: 768px) {
   .services {
+    background: #000000;
+    background: linear-gradient(to right, #161616, #000000)
     padding: 5rem 0;
   }
   .services_wrapper {
