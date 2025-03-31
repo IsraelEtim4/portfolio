@@ -124,6 +124,9 @@
 }
 
 @media screen and (max-width: 768px) {
+  . services {
+    padding: 5rem 0;
+  }
   .services_wrapper {
     grid-template-columns: 1fr;
   }
