@@ -193,6 +193,9 @@
 }
 
 @media screen and (max-width: 480px) {
+  .main {
+    padding: 5rem;
+  }
   .main_img-card {
     width: 250px;
     height: 250px;
