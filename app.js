@@ -73,7 +73,7 @@ gsap.utils.toArray('.animate-element').forEach(element => {
     scrollTrigger: {
       trigger: element,
       start: 'top 80%', // Animation starts when the element is 80% from the top of the viewport
-      end: 'bottom 20%', // Animation ends when the element is 20% from the bottom of the viewport
+      end: 'bottom 30%', // Animation ends when the element is 20% from the bottom of the viewport
       scrub: true // Animation scrubs with the scroll
     },
     duration: 0.6,
@@ -88,7 +88,7 @@ gsap.utils.toArray('.animate-about').forEach(element => {
     scrollTrigger: {
       trigger: element,
       start: 'top 80%', // Animation starts when the element is 80% from the top of the viewport
-      end: 'bottom 20%', // Animation ends when the element is 20% from the bottom of the viewport
+      end: 'bottom 30%', // Animation ends when the element is 20% from the bottom of the viewport
       scrub: true // Animation scrubs with the scroll
     },
     duration: 0.6,
