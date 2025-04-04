@@ -129,7 +129,10 @@
     background: linear-gradient(to right, #161616, #000000)
     padding: 2rem 0;
   }
+<<<<<<< HEAD
   
+=======
+>>>>>>> b5d4d8df4f7184cc1ebd317e510f6b3ed8b00b37
   .services_wrapper {
     grid-template-columns: 1fr;
   }

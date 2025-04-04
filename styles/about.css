@@ -198,9 +198,19 @@
     padding: 5rem 0;
   }
 
+<<<<<<< HEAD
   .main_img-card {
     width: 300px;
     height: 300px;
+=======
+  .main_container {
+    padding: 0 20px;
+  }
+  
+  .main_img-card {
+    width: 250px;
+    height: 250px;
+>>>>>>> b5d4d8df4f7184cc1ebd317e510f6b3ed8b00b37
   }
 
   .fa-layer-group {
