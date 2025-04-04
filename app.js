@@ -64,7 +64,7 @@ gsap.from('.animate-logo', {
   ScrollTrigger: 'animate-hero',
   duration: 0.6,
   opacity: 0,
-  y: -150,
+  y: -50,
   stagger: 0.3
 });
 
