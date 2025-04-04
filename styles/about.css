@@ -139,6 +139,7 @@
   display: flex;
   justify-content: center;
 }
+
 .fa-solid,
 .fa-mobile-android {
   font-size: 10rem;
@@ -193,14 +194,17 @@
 }
 
 @media screen and (max-width: 480px) {
-  .main_img-card {
-    width: 250px;
-    height: 250px;
+  .main {
+    padding: 5rem 0;
   }
 
-  .fa-users, 
+  .main_img-card {
+    width: 300px;
+    height: 300px;
+  }
+
   .fa-layer-group {
-    font-size: 4rem;
+    font-size: 10rem;
   }
 
   .main_content h1 {

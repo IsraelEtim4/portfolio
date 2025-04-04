@@ -124,6 +124,12 @@
 }
 
 @media screen and (max-width: 768px) {
+  .services {
+    background: #000000;
+    background: linear-gradient(to right, #161616, #000000)
+    padding: 2rem 0;
+  }
+  
   .services_wrapper {
     grid-template-columns: 1fr;
   }
